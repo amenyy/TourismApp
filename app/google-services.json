@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948358982942",
+    "firebase_url": "https://aroundtunisia-1f316-default-rtdb.firebaseio.com",
+    "project_id": "aroundtunisia-1f316",
+    "storage_bucket": "aroundtunisia-1f316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948358982942:android:71b618bcd242081b0f2d0f",
+        "android_client_info": {
+          "package_name": "com.ameny.tourismguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948358982942-u53dqg99m40o20eouvr92j206o2etpn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgFrdcQB6I5pxBLnfWD8hWELvHsjIAas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948358982942-u53dqg99m40o20eouvr92j206o2etpn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
